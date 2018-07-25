@@ -42,13 +42,13 @@ Any Engineer worth their salt recognises what all physicists already know.  All 
 * 'Deep Work' sessions.
 * 'Shallow Work' sessions.
 
-Ref: [Deep Work: Rules for Focused Success in a Distracted World by Cal Newport](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)
+*Ref: [Deep Work: Rules for Focused Success in a Distracted World by Cal Newport](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)
 
 ### Email
 
 #### Truths
 
-* Email is not a real time communication medium.
+* Email is not a reliable real time communication medium and should not be used as such.  This is why IM was invented.
 * Email and IM are time sucks that destroy flow and productivity by forcing context switching.
 
 #### Recommendations
@@ -77,7 +77,7 @@ Ref: [Deep Work: Rules for Focused Success in a Distracted World by Cal Newport]
         * [Open comms apps schedule](https://github.com/Collisio-Adolebitque/Productivity/blob/master/mac_customisation/email_and_im_schedule/com.comms.open.apps.plist).
         * [Close comms apps schedule](https://github.com/Collisio-Adolebitque/Productivity/blob/master/mac_customisation/email_and_im_schedule/com.comms.close.apps.plist).
     * **Q:** _How do you keep track of meetings if Outlook is closed though?_
-        **A:** I have my [Outlook Calendar Synced with the Calendar app](https://support.apple.com/en-ie/guide/calendar/access-icloud-google-and-other-calendars-icl4308d6701/mac) on my Mac (which gives alerts when Outlook is closed, without the distraction of email).  I also use the [Calendar 2](https://itunes.apple.com/us/app/calendar-2/id415181149?mt=12) app to provide a handy one click view of upcoming appointments, directly on the task bar. 
+        * **A:** I have my [Outlook Calendar Synced with the Calendar app](https://support.apple.com/en-ie/guide/calendar/access-icloud-google-and-other-calendars-icl4308d6701/mac) on my Mac (which gives alerts when Outlook is closed, without the distraction of email).  I also use the [Calendar 2](https://itunes.apple.com/us/app/calendar-2/id415181149?mt=12) app to provide a handy one click view of upcoming appointments, directly on the task bar. 
 
 \** This is a recommendation for knowledge workers who require significant periods of deep, focused, uninterrupted work and should not be utilised by anyone whose primary role involves customer service or time sensitive communications.
 
@@ -128,11 +128,11 @@ Defer
 * Circadian rhythms.
 * Ultradian rhythms.
 
-Ref: [Sleep Smarter by Shawn Stevenson](https://www.amazon.com/Sleep-Smarter-Essential-Strategies-Success/dp/1536618314)
+* Ref: [Sleep Smarter by Shawn Stevenson](https://www.amazon.com/Sleep-Smarter-Essential-Strategies-Success/dp/1536618314)
 
 ### Meditation
 
-Ref: [Tim Ferriss explains why everyone should try meditating](http://uk.businessinsider.com/tim-ferriss-meditation-strategy-tips-well-being-2017-11?r=US&IR=T)
+* Ref: [Tim Ferriss explains why everyone should try meditating](http://uk.businessinsider.com/tim-ferriss-meditation-strategy-tips-well-being-2017-11?r=US&IR=T)
 
 ## Nutrition
 
@@ -148,8 +148,8 @@ This is not a health and lifestyle guide.  The following items are merely to adv
 
 The culture of your organisation holds vital importance over your productivity levels.  It's widely known at this stage (I hope) that a happy employee is a productive employee. 
 
-Ref: [The Goal: A Process of Ongoing Improvement by Eliyahu M. Goldratt](https://www.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884271951) (This is a pre-cursor to a more contemporary book that I can also recommend; [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win by Gene Kim, Kevin Behr and George Spafford](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)).
-Ref: [A typology of organisational cultures by Dr. Ron Westrum](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1765804/pdf/v013p0ii22.pdf) (The table on the bottom of page 2 gives a quick look at one of the topics covered in the paper.  Do you recognise anything from the culture of your company?).
+* Ref: [The Goal: A Process of Ongoing Improvement by Eliyahu M. Goldratt](https://www.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884271951) (This is a pre-cursor to a more contemporary book that I can also recommend; [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win by Gene Kim, Kevin Behr and George Spafford](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)).
+* Ref: [A typology of organisational cultures by Dr. Ron Westrum](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1765804/pdf/v013p0ii22.pdf) (The table on the bottom of page 2 gives a quick look at one of the topics covered in the paper.  Do you recognise anything from the culture of your company?).
 
 ## Ritual
 
