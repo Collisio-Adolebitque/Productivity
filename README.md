@@ -55,6 +55,7 @@ Ref: [Deep Work: Rules for Focused Success in a Distracted World by Cal Newport]
 
 * It's important to change the mindset of how to deal with email and IM.
 * It’s up to an email sender to convince you to respond.
+* Emails are not meant to be novels or technical documentation.  Do not use them as a substitute for a meeting, if required.
 * Only open email and IM applications at scheduled times of day**.
     * I am currently trialling the following schedule (I am only available by phone outside these times).
         * 08:30 - 09:30: Initial daily review, planning and urgent responses.
@@ -107,6 +108,10 @@ Defer
 
 **NB:** Low effort <= 5 - 10 minutes.
         High effort > 10 minutes.
+
+### Meetings
+
+* 
 
 ## R & R
 
