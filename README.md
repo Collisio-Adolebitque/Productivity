@@ -4,7 +4,7 @@
 
 Any Engineer worth their salt recognises what all physicists already know.  All things (including those things outside of work) are interconnected (and often dependent) systems.  This repo is a gathering of research, thoughts and ideas to optimise the systems that a productive day depends on.
 
-**NB:** I am not a medical or research professional.  Much of the content below is taken from others research and I will endeavour to include citations where possible.  If you disagree with it, or 
+**NB:** I am not a medical or research professional.  Much of the content below is taken from others research and I will endeavour to include citations where possible.  If you disagree with it, or have better evidence for a particular postion, I am always happy to discuss.
 
 #### General Truths
 
