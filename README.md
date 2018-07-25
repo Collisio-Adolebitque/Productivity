@@ -65,6 +65,8 @@ Ref: [Deep Work: Rules for Focused Success in a Distracted World by Cal Newport]
     * The scripts above are called by adding the following plist schedules to the /Users/$USER/Library/LaunchAgents/ directory:
         * [Open comms apps schedule](https://github.com/Collisio-Adolebitque/Productivity/blob/master/mac_customisation/email_and_im_schedule/com.comms.open.apps.plist).
         * [Close comms apps schedule](https://github.com/Collisio-Adolebitque/Productivity/blob/master/mac_customisation/email_and_im_schedule/com.comms.close.apps.plist).
+    * **Q:** _How do you keep track of meetings if Outlook is closed though?_
+        **A:** I have my [Outlook Calendar Synced with the Calendar app](https://support.apple.com/en-ie/guide/calendar/access-icloud-google-and-other-calendars-icl4308d6701/mac) on my Mac (which gives alerts when Outlook is closed, without the distraction of email).  I also use the [Calendar 2](https://itunes.apple.com/us/app/calendar-2/id415181149?mt=12) app to provide a handy one click view of upcoming appointments, directly on the task bar. 
 * Use sender filters.
 
 \** This is a recommendation for knowledge workers who require significant periods of deep, focused, uninterrupted work and should not be utilised by anyone whose primary role involves customer service or time sensitive communications.
