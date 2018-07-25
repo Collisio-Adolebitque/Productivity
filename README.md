@@ -35,7 +35,11 @@ Any Engineer worth their salt recognises what all physicists already know.  All 
 
 #### Review
 
+* 
+
 #### Focus
+
+* 
 
 Ref: [Deep Work: Rules for Focused Success in a Distracted World by Cal Newport](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)
 
@@ -130,3 +134,7 @@ The culture of your organisation holds vital importance over your productivity l
 
 Ref: [The Goal: A Process of Ongoing Improvement by Eliyahu M. Goldratt](https://www.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884271951) (This is a pre-cursor to a more contemporary book that I can also recommend; [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win by Gene Kim, Kevin Behr and George Spafford](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)).
 Ref: [A typology of organisational cultures by Dr. Ron Westrum](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1765804/pdf/v013p0ii22.pdf) (The table on the bottom of page 2 gives a quick look at one of the topics covered in the paper.  Do you recognise anything from the culture of your company?).
+
+## Ritual
+
+*
