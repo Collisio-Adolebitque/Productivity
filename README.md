@@ -123,3 +123,10 @@ This is not a health and lifestyle guide.  The following items are merely to adv
 * Caffeine
     * Vascular constriction
 * Refined sugar
+
+## Culture
+
+The culture of your organisation holds vital importance over your productivity levels.  It's widely known at this stage (I hope) that a happy employee is a productive employee. 
+
+Ref: [The Goal: A Process of Ongoing Improvement by Eliyahu M. Goldratt](https://www.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884271951) (This is a pre-cursor to a more contemporary book that I can also recommend; [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win by Gene Kim, Kevin Behr and George Spafford](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)).
+Ref: [A typology of organisational cultures by Dr. Ron Westrum](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1765804/pdf/v013p0ii22.pdf) (The table on the bottom of page 2 gives a quick look at one of the topics covered in the paper.  Do you recognise anything from the culture of your company?).
