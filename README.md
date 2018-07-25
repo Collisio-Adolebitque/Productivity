@@ -130,6 +130,10 @@ Defer
 
 * Ref: [Sleep Smarter by Shawn Stevenson](https://www.amazon.com/Sleep-Smarter-Essential-Strategies-Success/dp/1536618314)
 
+### Exercise
+
+* 
+
 ### Meditation
 
 * Ref: [Tim Ferriss explains why everyone should try meditating](http://uk.businessinsider.com/tim-ferriss-meditation-strategy-tips-well-being-2017-11?r=US&IR=T)
