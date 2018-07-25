@@ -42,7 +42,7 @@ Any Engineer worth their salt recognises what all physicists already know.  All 
 * 'Deep Work' sessions.
 * 'Shallow Work' sessions.
 
-*Ref: [Deep Work: Rules for Focused Success in a Distracted World by Cal Newport](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)
+* Ref: [Deep Work: Rules for Focused Success in a Distracted World by Cal Newport](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)
 
 ### Email
 
