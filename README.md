@@ -12,6 +12,8 @@ Any Engineer worth their salt recognises what all physicists already know.  All 
 * You are not exceptional*. A dilligent worker harvesting the benefits of an improved skill-set based on the fruits of their labour can appear exceptional to those less well versed in the protagonists particular field, just as "Any sufficiently advanced technology is indistinguishable from magic." ([Arthur C. Clarkes 3rd law](https://en.wikipedia.org/wiki/Clarke%27s_three_laws)).
 * When faced with a less experienced or (seemingly) less competent individual, it is a grave error to fall victim to the [Dunning-Kruger effect](https://rationalwiki.org/wiki/Dunning-Kruger_effect).  There are lots of areas in which you are not knowledgeable, you were also once bereft of the knowledge you have now and you may well not know nearly as much about your chosen field as you think you do.
 
+\* Provided you are not a savant or significantly impaired in some fashion, however, these instances are the drastic exception to the norm.
+
 ## Time
 
 #### Truths
@@ -20,8 +22,6 @@ Any Engineer worth their salt recognises what all physicists already know.  All 
 * No regular human is capable of more than 4 hours deeply focused work in a standard 8 hour work day. We have a finite amount of attention we can burn.
 * Humans need downtime. It is not reasonable to expect them to be available 7 days a week or 24 hours a day. Productivity always falls in these circumstances. Without exception. If you don’t believe so, you need to start measuring or improve your metrics.
 * It is better to be fundamentally productive 24 hours per week than to be diffuse in your output over 90 hours a week.
-
-\* Provided you are not a savant or significantly impaired in some fashion, however, these instances are the drastic exception to the norm.
 
 #### Recommendations
 
