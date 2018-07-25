@@ -9,6 +9,7 @@ Any Engineer worth their salt recognises what all physicists already know.  All 
 #### General Truths
 
 * You should always be willing to revise an opinion based on better data (empirical evidence you can verify for yourself).
+* You should always be mindful of the [12 fundamental truths of Networking](https://tools.ietf.org/html/rfc1925) (They don't all just apply to networking).
 * You are not exceptional*. A dilligent worker harvesting the benefits of an improved skill-set based on the fruits of their labour can appear exceptional to those less well versed in the protagonists particular field, just as "Any sufficiently advanced technology is indistinguishable from magic." ([Arthur C. Clarkes 3rd law](https://en.wikipedia.org/wiki/Clarke%27s_three_laws)).
 * When faced with a less experienced or (seemingly) less competent individual, it is a grave error to fall victim to the [Dunning-Kruger effect](https://rationalwiki.org/wiki/Dunning-Kruger_effect).  There are lots of areas in which you are not knowledgeable, you were also once bereft of the knowledge you have now and you may well not know nearly as much about your chosen field as you think you do.
 
