@@ -99,6 +99,9 @@ Defer
 
 ### Sleep
 
+* Circadian rhythms.
+* Ultradian rhythms.
+
 Ref: [Sleep Smarter by Shawn Stevenson](https://www.amazon.com/Sleep-Smarter-Essential-Strategies-Success/dp/1536618314)
 
 ### Meditation
