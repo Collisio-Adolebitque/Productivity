@@ -55,6 +55,12 @@ Ref: [Deep Work: Rules for Focused Success in a Distracted World by Cal Newport]
         * 08:30 - 09:30: Initial daily review, planning and urgent responses.
         * 14:00 - 14:30: Urgent responses and email processing.
         * 16:30 - 17:00: Urgent responses, daily review and planning for the following day.
+    * I enforce this schedule on my Mac with the following scripts:
+        * Open comms apps.
+        * Close comms apps.
+    * The scripts above are called by adding the following plist schedules to the /Users/$USER/Library/LaunchAgents/ directory:
+        * Open comms apps schedule.
+        * Close comms apps schedule.
 * Use sender filters.
 
 \** This is a recommendation for knowledge workers who require significant periods of deep, focused, uninterrupted work and should not be utilised by anyone whose primary role involves customer service or time sensitive communications.
