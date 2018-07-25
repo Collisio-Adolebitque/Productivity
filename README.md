@@ -56,6 +56,15 @@ Ref: [Deep Work: Rules for Focused Success in a Distracted World by Cal Newport]
 * It's important to change the mindset of how to deal with email and IM.
 * It’s up to an email sender to convince you to respond.
 * Emails are not meant to be novels or technical documentation.  Do not use them as a substitute for a meeting, if required.
+* Use sender filters.
+* Signal intent:
+    * Subject line tags:
+        * [URGENT]
+        * [TIME SENSITIVE]
+        * [ACTION]
+        * [PLEASE REPLY BY (DATE)]
+        * [INFO]
+        * [EOM]
 * Only open email and IM applications at scheduled times of day**.
     * I am currently trialling the following schedule (I am only available by phone outside these times).
         * 08:30 - 09:30: Initial daily review, planning and urgent responses.
@@ -69,7 +78,6 @@ Ref: [Deep Work: Rules for Focused Success in a Distracted World by Cal Newport]
         * [Close comms apps schedule](https://github.com/Collisio-Adolebitque/Productivity/blob/master/mac_customisation/email_and_im_schedule/com.comms.close.apps.plist).
     * **Q:** _How do you keep track of meetings if Outlook is closed though?_
         **A:** I have my [Outlook Calendar Synced with the Calendar app](https://support.apple.com/en-ie/guide/calendar/access-icloud-google-and-other-calendars-icl4308d6701/mac) on my Mac (which gives alerts when Outlook is closed, without the distraction of email).  I also use the [Calendar 2](https://itunes.apple.com/us/app/calendar-2/id415181149?mt=12) app to provide a handy one click view of upcoming appointments, directly on the task bar. 
-* Use sender filters.
 
 \** This is a recommendation for knowledge workers who require significant periods of deep, focused, uninterrupted work and should not be utilised by anyone whose primary role involves customer service or time sensitive communications.
 
