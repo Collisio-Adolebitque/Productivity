@@ -40,7 +40,9 @@ Any Engineer worth their salt recognises what all physicists already know.  All 
 #### Focus
 
 * 'Deep Work' sessions.
+    * 90 minutes.
 * 'Shallow Work' sessions.
+    * 30 minutes.
 
 * Ref: [Deep Work: Rules for Focused Success in a Distracted World by Cal Newport](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)
 
@@ -126,13 +128,14 @@ Defer
 ### Sleep
 
 * Circadian rhythms.
+    * Sunlight / vitamin D.
 * Ultradian rhythms.
 
 * Ref: [Sleep Smarter by Shawn Stevenson](https://www.amazon.com/Sleep-Smarter-Essential-Strategies-Success/dp/1536618314)
 
 ### Exercise
 
-* 
+* Walking: Get away from your desk at lunch times.
 
 ### Meditation
 
