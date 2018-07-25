@@ -50,12 +50,14 @@ Ref: [Deep Work: Rules for Focused Success in a Distracted World by Cal Newport]
 
 * It's important to change the mindset of how to deal with email and IM.
 * It’s up to an email sender to convince you to respond.
-* Only open email and IM applications at scheduled times of day.
+* Only open email and IM applications at scheduled times of day**.
     * I am currently trialling the following schedule (I am only available by phone outside these times).
         * 08:30 - 09:30: Initial daily review, planning and urgent responses.
         * 14:00 - 14:30: Urgent responses and email processing.
         * 16:30 - 17:00: Urgent responses, daily review and planning for the following day.
 * Use sender filters.
+
+\** This is a recommendation for knowledge workers who require significant periods of deep, focused, uninterrupted work and should not be utilised by anyone whose primary role involves customer service or time sensitive communications.
 
 ##### Email processing Algorithm
 
