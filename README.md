@@ -66,7 +66,6 @@ Any Engineer worth their salt recognises what all physicists already know.  All 
         * [TIME SENSITIVE]
         * [ACTION]
         * [PLEASE REPLY BY (DATE)]
-        * [URGENT]
         * [EOM]
         * [REQUEST]
         * [INFO]
