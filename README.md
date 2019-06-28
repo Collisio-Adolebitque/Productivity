@@ -66,11 +66,10 @@ Any Engineer worth their salt recognises what all physicists already know.  All 
         * [TIME SENSITIVE]
         * [ACTION]
         * [PLEASE REPLY BY (DATE)]
-        * [INFO]
+        * [URGENT]
         * [EOM]
         * [REQUEST]
         * [INFO]
-	* [INFO]
 * Only open email and IM applications at scheduled times of day**.
     * I am currently trialling the following schedule (I am only available by phone outside these times).
         * 08:30 - 09:30: Initial daily review, planning and urgent responses.
